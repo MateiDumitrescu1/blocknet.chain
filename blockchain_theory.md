@@ -51,5 +51,3 @@ Nodes are assigned to groups, each group has a designated leader (called delegat
 D-BFT is faster and more efficient than P-BFT.  
 
 #### DAG 
-
-# Components of blocknet  
