@@ -40,13 +40,13 @@ By receiving rewards, **validators** are incentivized to act honestly and in the
 How proposing new blocks works: every 10s (for example), the chosen **validator** selects pending transactions in the transaction pool (sometimes called **mempool**) and organizez them into a block. The **validator** then broadcasts the block to the network.  
 
 
-### Dedicated Proof of State (DPoS)
+#### Dedicated Proof of State (DPoS)
 https://www.ledger.com/academy/what-is-delegated-proof-of-stake-dpos  
 Network users vote and elect **delegates** to validate the next block.  
 Users vote for a certain **delegate** by pooling their tokens into a staking pool and linking those the delegate. The delegate with the most tokens may then validate a block, and receive the corresponding transaction fees as a reward. Next, the delegate distributes the rewards to users who supported them based on each user’s stake.  
 
 Users can also vote out delegates if they make malicious attempts on the network. As such, delegates with a strong reputation are usually elected as witnesses.    
-### Leased Proof of State (LPoS)   
+#### Leased Proof of State (LPoS)   
 https://www.lcx.com/leased-proof-of-stake-lpos-explained/#:~:text=LPoS%20is%20a%20proof%2Dof,of%2Dstake%20(DPoS).    
 1. `Create a lease transaction`: Tokenholders lease coins to a node by specifying the quantity and recipient address in a lease transaction. Any lease can be terminated at any time.  
 2. `Wait for block generation`: Leased funds are added to a node’s pool, enhancing the likelihood of winning the next block’s lottery.  
