@@ -1,3 +1,4 @@
+https://en.wikipedia.org/wiki/Blockchain
 # Block
 https://www.investopedia.com/terms/b/block-bitcoin-block.asp#:~:text=Blocks%20are%20files%20stored%20by,be%20entered%20into%20and%20validated.
 
