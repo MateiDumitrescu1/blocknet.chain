@@ -1,0 +1,1 @@
+Goal 1: Make a blockchain that stores parameters of different NN models.
