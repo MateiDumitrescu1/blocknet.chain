@@ -67,5 +67,6 @@ Consensus is reached is 2/3 of nodes agree on a transaction. If a malicoious par
 #### Dedicated  Byzantine Fault Tolerance (D-BFT)  
 Nodes are assigned to groups, each group has a designated leader (called delegate). Leaders are repponsible for proposing new blocks, the rest of nodes in the group validate the proposed block.
 D-BFT is faster and more efficient than P-BFT.  
-
-### DAG 
+  
+### DAG    
+# Ledger   
