@@ -1,5 +1,23 @@
 # Components of blockchains in general  
 ## Block
+https://www.investopedia.com/terms/b/block-bitcoin-block.asp#:~:text=Blocks%20are%20files%20stored%20by,be%20entered%20into%20and%20validated.
+
+Blocks store files that are hashed and encode into a Merkle Tree. Once the data is validated, the block is closed.      
+A block is thus a permanent store of records that, once written, cannot be altered or removed without changing all preceding or   following blocks.     
+### Blocksize    
+Set the size so there is a limit to how much information can be written   
+### Block header  
+Contains information about the block 
+#### Previous block hash
+#### Timestamp
+#### Merkle Tree Hash
+#### Difficulty Target
+how difficult the block hash is ?????
+#### Nonce
+32-bit number assigned to the block in the mining process, that is incremented by 1 every time a guess is made.
+### Content
+The content 
+
 ## Blockchain
 The blockchain is essentially a list (or chain) of blocks. It manages:  
 Chain Integrity: Ensuring blocks are linked correctly.   
